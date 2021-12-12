@@ -111,7 +111,7 @@
 			<dependency>
 				<groupId>io.spring.gradle</groupId>
 				<artifactId>dependency-management-plugin</artifactId>
-				<version>1.0.6.RELEASE</version>
+				<version>1.0.11.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>jline</groupId>
@@ -358,7 +358,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -377,7 +377,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -396,7 +396,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -416,7 +416,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -437,7 +437,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -458,7 +458,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -479,7 +479,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -498,7 +498,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
