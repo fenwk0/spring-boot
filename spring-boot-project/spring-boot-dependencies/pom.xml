@@ -2556,7 +2556,7 @@
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-core</artifactId>
-				<version>${spring-framework.version}</version>
+				<version>5.2.18.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework</groupId>
