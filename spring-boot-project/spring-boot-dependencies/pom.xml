@@ -33,7 +33,7 @@
 	</developers>
 	<properties>
 		<!-- Dependency versions -->
-		<activemq.version>5.15.6</activemq.version>
+		<activemq.version>5.16.0</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<appengine-sdk.version>1.9.64</appengine-sdk.version>
 		<artemis.version>2.6.3</artemis.version>
@@ -127,7 +127,7 @@
 		<logback.version>1.2.3</logback.version>
 		<lombok.version>1.18.2</lombok.version>
 		<mariadb.version>2.3.0</mariadb.version>
-		<micrometer.version>1.0.6</micrometer.version>
+		<micrometer.version>1.9.12</micrometer.version>
 		<mockito.version>2.22.0</mockito.version>
 		<mongo-driver-reactivestreams.version>1.9.1</mongo-driver-reactivestreams.version>
 		<mongodb.version>3.8.1</mongodb.version>
